@@ -1,0 +1,1 @@
+https://aegis4048.github.io/comprehensive_confidence_intervals_for_python_developers#assumption_1 
